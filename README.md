@@ -14,3 +14,4 @@
 And done ;)
 
 ### License
+Show the [License](LICENSE) file.
